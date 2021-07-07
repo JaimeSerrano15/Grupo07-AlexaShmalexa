@@ -1,0 +1,13 @@
+C:\Users\jaime\source\repos\mef3d\mef3d\bin\Debug\netcoreapp3.1\mef3d.exe
+C:\Users\jaime\source\repos\mef3d\mef3d\bin\Debug\netcoreapp3.1\mef3d.deps.json
+C:\Users\jaime\source\repos\mef3d\mef3d\bin\Debug\netcoreapp3.1\mef3d.runtimeconfig.json
+C:\Users\jaime\source\repos\mef3d\mef3d\bin\Debug\netcoreapp3.1\mef3d.runtimeconfig.dev.json
+C:\Users\jaime\source\repos\mef3d\mef3d\bin\Debug\netcoreapp3.1\mef3d.dll
+C:\Users\jaime\source\repos\mef3d\mef3d\bin\Debug\netcoreapp3.1\mef3d.pdb
+C:\Users\jaime\source\repos\mef3d\mef3d\obj\Debug\netcoreapp3.1\mef3d.csprojAssemblyReference.cache
+C:\Users\jaime\source\repos\mef3d\mef3d\obj\Debug\netcoreapp3.1\mef3d.AssemblyInfoInputs.cache
+C:\Users\jaime\source\repos\mef3d\mef3d\obj\Debug\netcoreapp3.1\mef3d.AssemblyInfo.cs
+C:\Users\jaime\source\repos\mef3d\mef3d\obj\Debug\netcoreapp3.1\mef3d.csproj.CoreCompileInputs.cache
+C:\Users\jaime\source\repos\mef3d\mef3d\obj\Debug\netcoreapp3.1\mef3d.dll
+C:\Users\jaime\source\repos\mef3d\mef3d\obj\Debug\netcoreapp3.1\mef3d.pdb
+C:\Users\jaime\source\repos\mef3d\mef3d\obj\Debug\netcoreapp3.1\mef3d.genruntimeconfig.cache
